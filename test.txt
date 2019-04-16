@@ -1,1 +1,2 @@
-THIS IS MY FIRST GIT FILE CHANGE
+THIS IS MY FIRSt GIT FILE CHANGe
+This is my 2nd git file change
