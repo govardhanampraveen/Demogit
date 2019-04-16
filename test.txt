@@ -1,4 +1,5 @@
-THIS IS MY FIRSt GIT FILE CHANGe
+HIS IS MY FIRSt GIT FILE CHANGe
 This is my 2nd git file change
 This is my 3rd git file change
 This is my 4th git file change
+This is my 5th git file change in EC2(AWS instance)
